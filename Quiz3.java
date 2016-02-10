@@ -1,3 +1,4 @@
+//For multiple overloading, most specific method is chosen over generic option.
 public class Quiz3 {
     public static String getValue(Integer value) {
         return "integer";
